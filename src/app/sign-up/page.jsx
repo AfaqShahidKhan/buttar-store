@@ -1,9 +1,9 @@
 import React from "react";
 export const metadata = {
-    title: "Sign Up",
-  };
+  title: "Sign Up",
+};
 function page() {
-  return <div>Sign In page</div>;
+  return <div>Sign up page</div>;
 }
 
 export default page;
