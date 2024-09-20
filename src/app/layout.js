@@ -1,6 +1,8 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 
+
+
 import { Josefin_Sans } from "next/font/google";
 import Navbar from "@/components/Navbar/Navbar";
 
