@@ -1,8 +1,8 @@
 import React from 'react'
-
+import styles from './Navbar.module.css'
 function Navbar() {
   return (
-    <div>Navbar</div>
+    <div className={`${styles['bg-color']}`}>Navbar</div>
   )
 }
 
