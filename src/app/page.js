@@ -1,6 +1,7 @@
 import ExclusiveOffer from "@/components/ExclusiveOffer";
 import Hero from "@/components/Hero";
 import NewCollection from "@/components/NewCollection";
+import NewsLetter from "@/components/NewsLetter";
 import PopularInWomen from "@/components/PopularInWomen";
 
 export default function Home() {
@@ -10,6 +11,7 @@ export default function Home() {
       <PopularInWomen/>
       <ExclusiveOffer/>
       <NewCollection/>
+      <NewsLetter/>
     </main>
   );
 }
