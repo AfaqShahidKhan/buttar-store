@@ -1,3 +1,4 @@
-.bg-color{
-    background-color: blue;
-}
+.activeLink {
+    text-decoration: underline !important;
+    text-decoration-color: red;
+  }
