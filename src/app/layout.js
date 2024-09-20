@@ -5,6 +5,7 @@ import "./globals.css";
 
 import { Josefin_Sans } from "next/font/google";
 import Navbar from "@/components/Navbar/Navbar";
+import Footer from "@/components/Footer/Footer";
 
 const josefin = Josefin_Sans({
   subsets: ["latin"],
@@ -29,6 +30,7 @@ export default function RootLayout({ children }) {
         <div className="flex-1 grid">
           <main className="max-w-8xl mx-auto w-full">{children}</main>
         </div>
+        <Footer/>
       </body>
     </html>
   );

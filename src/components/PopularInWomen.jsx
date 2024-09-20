@@ -4,7 +4,7 @@ import ProductCard from "./ProductCard";
 
 function PopularInWomen() {
   return (
-    <div className="bg-primary-30 w-full px-20">
+    <div className="bg-primary-30 w-full px-20 my-20">
       <h1 className="text-3xl uppercase text-center font-bold">
         Popular in Women
       </h1>

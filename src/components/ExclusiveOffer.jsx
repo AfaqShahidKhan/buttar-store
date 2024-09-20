@@ -4,7 +4,7 @@ import Image from "next/image";
 
 function ExclusiveOffer() {
   return (
-    <div className="mt-40 px-32">
+    <div className="my-40 px-32">
       <div className="bg-gradient-to-b from-pink-100 to-white grid grid-cols-12">
         <div className="col-span-6 flex flex-col items-center justify-center text-center">
           <div className="flex flex-col items-start">
