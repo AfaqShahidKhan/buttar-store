@@ -34,7 +34,7 @@ function page() {
           </div>
 
           <div className="flex flex-col ">
-            <div className="ml-14 mt-4">
+            <div className="ml-16 mt-4">
            
             <p className="text-black ">
             Create an Account? 
