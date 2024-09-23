@@ -1,9 +1,14 @@
+import MenCategory from "@/components/MenCategory";
 import React from "react";
 export const metadata = {
-    title: "Men",
-  };
+  title: "Men",
+};
 function page() {
-  return <div>Men page</div>;
+  return (
+    <>
+      <MenCategory />
+    </>
+  );
 }
 
 export default page;
