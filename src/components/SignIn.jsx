@@ -3,7 +3,7 @@ import { login, logout } from "@/lib/user/userSlice";
 import { useRouter } from "next/navigation";
 import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-
+// dummy data
 const validUsers = [
   { email: "test@example.com", password: "1234" },
   { email: "mushahid@example.com", password: "1122" },
