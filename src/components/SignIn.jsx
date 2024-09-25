@@ -1,5 +1,6 @@
 "use client";
 import { login, logout } from "@/lib/user/userSlice";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
@@ -65,7 +66,9 @@ function SignIn() {
             <div className="ml-14 mt-4">
               <p className="text-black ">
                 Create an Account?
-                <span className="font-bold text-red-500"> Click Here</span>
+                <Link href="/sign-up">
+                  <span className="font-bold text-red-500 cursor-pointer"> Click Here</span>
+                </Link>
               </p>
             </div>
 
