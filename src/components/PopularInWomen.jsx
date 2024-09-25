@@ -1,6 +1,7 @@
 import React from "react";
 import data_product from "@/utils/data";
 import ProductCard from "./ProductCard";
+import Link from "next/link";
 
 function PopularInWomen() {
   return (
@@ -11,14 +12,16 @@ function PopularInWomen() {
       <div className="w-32 mx-auto h-1 bg-primary-950 mt-2" />
       <div className="flex flex-wrap justify-center mt-4">
         {data_product.map((product, index) => (
-          <ProductCard
-            key={index}
-            src={product.image}
-            alt={product.name}
-            description={product.name}
-            price={`$${product.new_price.toFixed(2)}`}
-            discount={`$${product.old_price.toFixed(2)}`}
-          />
+          <Link href={`/product/${product.id}`}>
+            <ProductCard
+              key={product.id}
+              src={product.image}
+              alt={product.name}
+              description={product.name}
+              price={`$${product.new_price.toFixed(2)}`}
+              discount={`$${product.old_price.toFixed(2)}`}
+            />
+          </Link>
         ))}
       </div>
     </div>
