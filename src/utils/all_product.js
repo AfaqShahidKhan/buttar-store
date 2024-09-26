@@ -34,7 +34,7 @@ import p33_img from "../../public/images/products/product_33.png";
 import p34_img from "../../public/images/products/product_34.png";
 import p35_img from "../../public/images/products/product_35.png";
 import p36_img from "../../public/images/products/product_36.png";
-
+//modify products
 let all_product = [
   {
     id: 1,
