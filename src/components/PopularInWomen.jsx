@@ -5,8 +5,8 @@ import Link from "next/link";
 
 function PopularInWomen() {
   return (
-    <div className="bg-primary-30 w-full px-20 my-20">
-      <h1 className="text-3xl uppercase text-center font-bold">
+    <div className="bg-primary-30 w-full px-2 md:px-20 my-20">
+      <h1 className="text-xl md:text-3xl uppercase text-center font-bold">
         Popular in Women
       </h1>
       <div className="w-32 mx-auto h-1 bg-primary-950 mt-2" />
@@ -17,7 +17,7 @@ function PopularInWomen() {
               key={product.id}
               src={product.image}
               alt={product.name}
-              description={product.name}
+              name={product.name}
               price={`$${product.new_price.toFixed(2)}`}
               discount={`$${product.old_price.toFixed(2)}`}
             />

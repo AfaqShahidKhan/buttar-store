@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
       <link rel="icon" href="/logos/logo.png" type="image/png" sizes="any" />
       </head>
       <body
-        className={`${josefin.className} antialiased bg-primary-30 text-primary-950 min-h-screen flex flex-col relative`}
+        className={`${josefin.className} antialiased bg-primary-30 text-primary-950 min-h-screen flex flex-col relative mb-20 md:mb-0`}
       >
         <ReduxProvider>
           <Navbar />

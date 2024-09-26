@@ -5,7 +5,7 @@ import Link from "next/link";
 
 function NewCollection() {
   return (
-    <div className="bg-primary-30 w-full px-20 mt-20">
+    <div className="bg-primary-30 w-full px-2 md:px-20 mt-20">
       <h1 className="text-3xl uppercase text-center font-bold">
         New Collection
       </h1>
@@ -17,7 +17,7 @@ function NewCollection() {
               key={product.id}
               src={product.image}
               alt={product.name}
-              description={product.name}
+              name={product.name}
               price={`$${product.new_price.toFixed(2)}`}
               discount={`$${product.old_price.toFixed(2)}`}
             />
