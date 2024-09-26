@@ -3,23 +3,22 @@ import { addToCart } from "@/lib/cart/cartSlice";
 import Link from "next/link";
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
+import { FaPlus, FaMinus } from "react-icons/fa6";
 
 const sizes = ["S", "M", "L", "XL", "XXL"];
 
 function AddToCart({ product }) {
   const dispatch = useDispatch();
   const [selectedSize, setSelectedSize] = useState("");
-  const [quantity, setQuantity] = useState(0);
+  const [quantity, setQuantity] = useState(1);
 
   function handleAddToCart(e) {
     e.preventDefault();
     if (selectedSize) {
-      const newQuantity = quantity + 1;
-      setQuantity(newQuantity);
       const itemToAdd = {
         ...product,
         size: selectedSize,
-        quantity: newQuantity,
+        quantity,
       };
       dispatch(addToCart(itemToAdd));
     }
@@ -40,6 +39,24 @@ function AddToCart({ product }) {
             {size}
           </div>
         ))}
+      </div>
+
+      <div className="flex items-center mt-6">
+        <button
+          onClick={() => setQuantity(Math.max(1, quantity - 1))}
+          className="bg-[#FF4F3B] text-white  font-bold py-2 px-4 rounded-l transition duration-200 hover:bg-[#FF3B2A] mr-2"
+        >
+          <FaMinus />
+        </button>
+        <span className="border-t border-b border-gray-300 text-center py-1 px-4 w-16">
+          {quantity}
+        </span>
+        <button
+          onClick={() => setQuantity(quantity + 1)}
+          className="bg-[#FF4F3B] text-white  font-bold py-2 px-4 rounded-r transition duration-200 hover:bg-[#FF3B2A] ml-2"
+        >
+          <FaPlus />
+        </button>
       </div>
       <div className="flex gap-12">
         <button
