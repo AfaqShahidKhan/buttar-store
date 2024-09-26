@@ -2,8 +2,16 @@ import Image from "next/image";
 import React from "react";
 const sizes = ["S", "M", "L", "XL", "XXL"];
 function ProductDetails({ product }) {
-  const { id, name, category, image, new_price, old_price, description } =
-    product;
+  const {
+    id,
+    name,
+    category,
+    image,
+    new_price,
+    old_price,
+    description,
+    description_long,
+  } = product;
 
   return (
     <>
@@ -58,6 +66,17 @@ function ProductDetails({ product }) {
               </button>
             </div>
           </div>
+        </div>
+        <div className="">
+          <div className="flex">
+            <button className=" hover:bg-primary-300 text-primary-950 border font-bold py-2 px-4 w-[160px] flex items-center justify-center my-10">
+              Description
+            </button>
+            <button className=" hover:bg-primary-300 text-primary-950 border font-bold py-2 px-4 w-[160px] flex items-center justify-center my-10">
+              Reviews
+            </button>
+          </div>
+          <p className="text-xl text-primary-800">{description_long}</p>
         </div>
       </div>
     </>
