@@ -20,20 +20,20 @@ function ProductDetails({ product }) {
         <div className="grid grid-cols-1 md:grid-cols-12 gap-4">
           <div className="col-span-1 md:col-span-6">
             <div className="grid grid-cols-1 md:grid-cols-12 gap-4">
-              <div className="col-span-1 md:col-span-2">
+              <div className="hidden lg:block md:col-span-2">
                 {Array.from({ length: 4 }).map((_, index) => (
                   <Image
                     key={index}
                     src={image}
-                    width={150}
-                    height={195}
+                    width={80}
+                    height={120}
                     alt={name}
-                    className="mb-4"
+                    className="mb-3"
                   />
                 ))}
               </div>
               <div className="col-span-1 md:col-span-10">
-                <Image src={image} width={500} height={600} alt={name} />
+                <Image src={image} width={350} height={418} alt={name} />
               </div>
             </div>
           </div>

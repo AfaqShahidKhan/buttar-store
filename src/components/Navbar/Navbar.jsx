@@ -29,14 +29,14 @@ function Navbar() {
         <ActiveLink href="/kids">Kids</ActiveLink>
       </div>
 
-      <div className="col-span-3 flex justify-end space-x-4">
+      <div className="col-span-3 flex justify-end space-x-2 md:space-x-4">
         {!isAuthenticated ? (
           <button class="bg-transparent text-[10px] md:text-xl hover:bg-primary-950 text-primary-950 font-semibold hover:text-white lg:w-[130px] px-4 border border-primary-950 hover:border-transparent rounded-[50px]">
             <Link href="/sign-in">Sign in</Link>
           </button>
         ) : (
           <button
-            class="bg-transparent hover:bg-primary-950 text-sm md:text-xl text-primary-950 font-semibold hover:text-white lg:w-[130px] px-4 border border-primary-950 hover:border-transparent rounded-[50px]"
+            class="bg-transparent hover:bg-primary-950 text-[10px] md:text-xl text-primary-950 font-semibold hover:text-white lg:w-[130px] px-4 border border-primary-950 hover:border-transparent rounded-[50px]"
             onClick={handleSignOut}
           >
             <Link href="/">Sign Out</Link>
@@ -47,8 +47,8 @@ function Navbar() {
             <Link href="/cart">
               <Image
                 src={cartImage}
-                height={50}
-                width={50}
+                height={40}
+                width={40}
                 alt="Buttar Store cart"
               />
             </Link>

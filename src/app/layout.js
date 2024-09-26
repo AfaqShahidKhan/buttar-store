@@ -31,7 +31,7 @@ export default function RootLayout({ children }) {
         <ReduxProvider>
           <Navbar />
           <div className="flex-1 grid">
-            <main className="max-w-8xl mx-auto w-full">{children}</main>
+            <main className="max-w-8xl mx-auto w-full px-2">{children}</main>
           </div>
           <Footer />
         </ReduxProvider>
