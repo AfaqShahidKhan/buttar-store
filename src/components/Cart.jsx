@@ -1,5 +1,5 @@
 "use client";
-import { removeFromCart } from "@/lib/cart/cartSlice";
+import { clearCart, removeFromCart } from "@/lib/cart/cartSlice";
 import Image from "next/image";
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
@@ -21,6 +21,7 @@ function Cart() {
               <th className="py-2 px-4 border-b">Title</th>
               <th className="py-2 px-4 border-b">Price</th>
               <th className="py-2 px-4 border-b">Quantity</th>
+              <th className="py-2 px-4 border-b">Size</th>
               <th className="py-2 px-4 border-b">Total</th>
               <th className="py-2 px-4 border-b">Remove</th>
             </tr>
@@ -41,6 +42,7 @@ function Cart() {
                   ${item.new_price.toFixed(2)}
                 </td>
                 <td className="py-2 px-4 border-b">{item.quantity}</td>
+                <td className="py-2 px-4 border-b">{item.size}</td>
                 <td className="py-2 px-4 border-b">
                   ${(item.new_price * item.quantity).toFixed(2)}
                 </td>
@@ -82,6 +84,14 @@ function Cart() {
             <h2 className="text-xl text-primary-950 font-semibold">
               ${totalAmount.toFixed(2)}
             </h2>
+          </div>
+          <div className="mt-8 flex flex-start">
+            <button
+              onClick={() => dispatch(clearCart())}
+              className=" bg-primary-950 hover:bg-[#FF3B2A] disabled:cursor-no-drop text-white font-bold py-2 px-4 w-[160px] flex items-center justify-center"
+            >
+              Clear all
+            </button>
           </div>
         </div>
         <div className="col-span-6 px-24 mt-24">
