@@ -22,6 +22,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+      <link rel="icon" href="/logos/logo.png" type="image/png" sizes="any" />
+      </head>
       <body
         className={`${josefin.className} antialiased bg-primary-30 text-primary-950 min-h-screen flex flex-col relative`}
       >

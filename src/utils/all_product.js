@@ -46,7 +46,7 @@ let all_product = [
     description:
       "A stylish blouse with a flutter sleeve design, perfect for casual outings. Its peplum hem adds a flattering silhouette.",
     description_long:
-      "This stunning blouse is designed with a flattering peplum hem that accentuates your waistline while providing an elegant flair. The flutter sleeves add a touch of femininity, making it perfect for casual outings or even more formal occasions. The overlap collar gives it a unique and stylish look that pairs well with skirts, trousers, or jeans. It’s lightweight, breathable, and ideal for all-day wear, ensuring you stay comfortable and chic.",
+      "Elevate your wardrobe with the Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse. Featuring a delightful stripe pattern, this blouse combines elegance with a playful edge. The flutter sleeves lend a breezy femininity, while the peplum hem beautifully accentuates your waist, creating a flattering silhouette. The overlap collar adds a unique touch that makes it versatile for both casual outings and dressier occasions. Made from lightweight, breathable fabric, this blouse ensures you stay comfortable and chic all day long. Pair it effortlessly with skirts, trousers, or your favorite jeans for a stylish look. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 2,
@@ -58,7 +58,7 @@ let all_product = [
     description:
       "Elegant stripes and a feminine silhouette make this blouse a wardrobe essential. Great for both work and play.",
     description_long:
-      "This blouse features a timeless striped design with a modern twist. The buttoned sleeves provide a tailored and sophisticated look. The peplum hem beautifully flatters all body types, giving you an effortlessly chic look whether you’re at work or enjoying a day out. Crafted with high-quality materials, it ensures both comfort and durability. This blouse is perfect for pairing with skirts or pants for a stylish and versatile outfit.",
+      "Discover timeless sophistication with the Elegant Buttoned Sleeve Peplum Blouse. This blouse features a classic striped design that effortlessly combines elegance and modern flair. The buttoned sleeves provide a tailored look, while the peplum hem flatters all body types, giving you an effortlessly chic appearance. Crafted from high-quality materials, it ensures comfort and durability, making it suitable for both work and casual outings. Pair it with skirts or tailored trousers for a stylish and versatile outfit that transitions beautifully from day to night. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 3,
@@ -70,7 +70,7 @@ let all_product = [
     description:
       "Chic and versatile, this blouse features a beautiful collar and ruffle sleeves. Pair it with jeans or skirts.",
     description_long:
-      "This chic blouse is the epitome of modern style with a touch of vintage. The polka dots create a playful yet elegant vibe, while the ruffle sleeves provide a delicate and feminine silhouette. The wrap design flatters the waist, ensuring that you look and feel your best no matter the occasion. Made from lightweight, breathable material, this blouse is comfortable for all-day wear, offering a chic, polished look whether paired with casual jeans or formal skirts.",
+      "Embrace a playful yet sophisticated style with the Polka Dot Ruffle Sleeve Wrap Blouse. The charming polka dot print adds a fun element, while the ruffle sleeves enhance the feminine silhouette. The wrap design flatters your waist, ensuring you look and feel confident for any occasion. Made from lightweight, breathable fabric, this blouse is perfect for all-day wear, seamlessly transitioning from casual outings to more formal events. Style it with jeans for a relaxed look or dress it up with skirts for a polished ensemble. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 4,
@@ -82,7 +82,7 @@ let all_product = [
     description:
       "An eye-catching blouse with a unique lace trim design, perfect for dressing up or down.",
     description_long:
-      "This casual yet elegant blouse is the perfect mix of simplicity and sophistication. The lace trim adds a touch of luxury to the otherwise minimal V-neck design, creating an effortlessly chic look. Its relaxed fit makes it comfortable for everyday wear, while the intricate lace detailing adds a special touch that can easily transition from day to night. Crafted from soft, breathable fabrics, this blouse ensures comfort without sacrificing style.",
+      "Introducing the Casual V-Neck Lace Trim Blouse, a perfect blend of simplicity and sophistication. The unique lace trim adds a touch of elegance to the minimal V-neck design, creating an effortlessly chic appearance. With a relaxed fit, this blouse ensures comfort for everyday wear, while the intricate lace detailing allows it to transition beautifully from day to night. Crafted from soft, breathable fabrics, this blouse is ideal for pairing with jeans for a casual day out or dressed up with skirts for special occasions. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 5,
@@ -94,7 +94,7 @@ let all_product = [
     description:
       "This boho-inspired blouse features floral prints and ruffle details, making it perfect for a laid-back vibe.",
     description_long:
-      "Infused with bohemian charm, this blouse is designed with a vibrant floral print that exudes free-spirited energy. The ruffle details add a playful yet sophisticated touch, making it perfect for weekend getaways or casual hangouts. The relaxed fit and lightweight material ensure that this blouse remains comfortable and breezy, while its intricate floral patterns and ruffles provide a timeless appeal.",
+      "Capture the essence of bohemian style with the Boho Floral Print Ruffle Blouse. This blouse showcases a vibrant floral print that radiates free-spirited energy. The playful ruffle details add sophistication and charm, making it perfect for weekend getaways or casual gatherings. Its relaxed fit and lightweight material keep you comfortable and breezy, while the intricate floral patterns offer a timeless appeal that you can enjoy for seasons to come. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 6,
@@ -106,7 +106,7 @@ let all_product = [
     description:
       "A classy chiffon blouse with pleated detailing. It’s perfect for formal settings or special occasions.",
     description_long:
-      "Designed for elegance and sophistication, this sleeveless chiffon blouse features delicate pleated detailing, creating a sleek and polished look. Its lightweight fabric ensures comfort while maintaining an elevated aesthetic. This blouse pairs perfectly with tailored trousers or skirts for formal occasions but can also be dressed down for casual events. The timeless design ensures that it remains a wardrobe staple for years to come.",
+      "Step into elegance with the Chiffon Sleeveless Pleated Blouse. This blouse features delicate pleated detailing that creates a sleek and polished look, perfect for formal occasions or special events. The lightweight chiffon fabric ensures comfort without compromising on style, making it ideal for warmer weather. Pair it with tailored trousers or a chic skirt for an elevated outfit, or dress it down for casual outings. This timeless design guarantees that it will remain a wardrobe staple for years to come. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 7,
@@ -118,7 +118,7 @@ let all_product = [
     description:
       "A round neck blouse with a lace overlay. Elegant and stylish, it’s great for any occasion.",
     description_long:
-      "The lace overlay on this round neck blouse brings a touch of vintage charm to a modern design. The intricate lacework adds a luxurious feel, making it suitable for both casual and formal settings. The lightweight fabric ensures comfort throughout the day, while the elegant design allows you to style it with a variety of bottoms. Whether you're heading to the office or attending a special event, this blouse is sure to make you stand out.",
+      "The Lace Overlay Round Neck Blouse beautifully marries vintage charm with modern style. The intricate lace overlay adds a luxurious feel, making it suitable for both casual and formal settings. Crafted from lightweight fabric, this blouse ensures comfort throughout the day, while its elegant design allows for versatile styling with a variety of bottoms. Whether you’re heading to the office or attending a special event, this blouse will surely make you stand out. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 8,
@@ -130,7 +130,7 @@ let all_product = [
     description:
       "A button-down chiffon blouse with polka dots. Lightweight and versatile for casual and work wear.",
     description_long:
-      "This button-down blouse combines playful polka dots with an elegant chiffon fabric to create a look that’s both fun and refined. Its lightweight material makes it perfect for warmer weather, while the button-down design ensures versatility. Whether you're dressing up for work or keeping it casual for the weekend, this blouse pairs well with trousers, skirts, or jeans. The airy feel of chiffon adds to its comfort, making it a favorite for all-day wear.",
+      "The Button-Down Polka Dot Chiffon Blouse combines playful polka dots with elegant chiffon for a look that’s both fun and refined. Its lightweight fabric makes it perfect for warmer days, while the button-down design enhances its versatility. Whether you’re dressing up for work or keeping it casual for a weekend outing, this blouse pairs beautifully with trousers, skirts, or jeans. The airy chiffon adds to its comfort, making it a go-to choice for all-day wear. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 9,
@@ -142,7 +142,7 @@ let all_product = [
     description:
       "This tunic blouse features detailed embroidery and long sleeves, perfect for cooler seasons.",
     description_long:
-      "This embroidered tunic blouse is designed with meticulous attention to detail. The intricate embroidery adds a rich texture to the long sleeves, making it perfect for fall and winter seasons. Its longer length provides a flattering fit for all body types, and the high-quality fabric ensures both warmth and comfort. Pair it with leggings or jeans for a casual look, or dress it up with tailored trousers for more formal settings.",
+      "Embrace the beauty of intricate detailing with the Embroidered Long Sleeve Tunic Blouse. The meticulous embroidery adds a rich texture and visual interest, making it perfect for the cooler seasons. Its longer length provides a flattering fit for all body types, while the high-quality fabric ensures warmth and comfort. Style it with leggings for a casual look, or dress it up with tailored trousers for more formal settings. This blouse is a versatile addition to your wardrobe that offers both style and comfort. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 10,
@@ -154,8 +154,9 @@ let all_product = [
     description:
       "A luxurious satin blouse with a ruffled collar. Ideal for evening wear or special occasions.",
     description_long:
-      "This satin blouse offers a luxurious look with its ruffled collar and smooth, silky fabric. The rich texture of satin ensures that you stand out, whether you’re attending a special event or dressing up for a night out. The ruffled collar adds a playful yet elegant touch, while the soft, draping fabric ensures comfort and a flattering silhouette. Style it with skirts or high-waisted pants for a timeless, elegant ensemble.",
+      "The Ruffled Collar Satin Blouse exudes luxury with its smooth, silky fabric and playful ruffled collar. This blouse is designed to make a statement, whether you’re attending a special event or enjoying a night out. The soft, draping fabric ensures both comfort and a flattering silhouette, while the ruffled collar adds an elegant touch. Pair it with skirts or high-waisted pants for a timeless, sophisticated look that’s sure to turn heads. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
+
   {
     id: 11,
     name: "Tie-Front Bow Blouse",
@@ -166,7 +167,7 @@ let all_product = [
     description:
       "A blouse with a front bow that ties for a feminine look. Perfect for work or evening wear.",
     description_long:
-      "The tie-front bow on this blouse adds an instant touch of femininity and elegance to any outfit. Whether you're wearing it for work or an evening event, it exudes sophistication. The soft fabric ensures comfort while the bow detail gives a flattering and polished look. Pair it with a pencil skirt or tailored trousers for a chic, put-together ensemble.",
+      "The Tie-Front Bow Blouse adds an instant touch of femininity and elegance to any outfit. Featuring a chic bow detail at the front, this blouse is perfect for both work and evening events, exuding sophistication and style. The soft, lightweight fabric ensures comfort, while the flattering fit provides a polished look. Pair it with a pencil skirt or tailored trousers for a chic, put-together ensemble that makes a statement. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 12,
@@ -178,7 +179,7 @@ let all_product = [
     description:
       "A v-neck blouse with floral designs and buttons down the front. Lightweight and airy.",
     description_long:
-      "This v-neck blouse with floral patterns adds a pop of color and charm to your wardrobe. Its button-down design makes it easy to layer, and the lightweight fabric ensures breathability and comfort. Ideal for spring and summer seasons, this blouse can be styled with skirts, jeans, or shorts, making it a versatile and stylish addition to your everyday outfits.",
+      "Brighten up your wardrobe with the V-Neck Button Down Floral Blouse. Adorned with charming floral patterns, this blouse adds a vibrant touch to any outfit. The button-down design allows for easy layering, and the lightweight fabric ensures breathability and comfort, making it ideal for the spring and summer seasons. Style it with skirts, jeans, or shorts for a versatile and stylish addition to your everyday outfits. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 13,
@@ -190,91 +191,91 @@ let all_product = [
     description:
       "A pleated satin blouse with a sleeveless design. Perfect for summer evenings or formal events.",
     description_long:
-      "This satin blouse features pleated detailing that gives it a touch of elegance and sophistication. The sleeveless design makes it perfect for warmer days or evening events where you want to stay cool yet chic. Its satin finish adds a luxurious feel, while the pleats give it a flattering shape that complements any figure. Pair it with slim trousers or skirts for a sleek, polished look.",
+      "The Pleated Satin Blouse features elegant pleated detailing, adding sophistication to your look. With its sleeveless design, it’s ideal for summer evenings or formal events, providing both style and comfort. The luxurious satin finish enhances the overall aesthetic, while the flattering shape complements any figure. Pair it with slim trousers or skirts for a polished ensemble that stands out. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 14,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "Casual Boho Printed Blouse",
+    category: "women",
     image: p14_img,
     new_price: 65.0,
     old_price: 100.0,
     description:
       "A casual boho blouse with a relaxed fit and printed design. Great for everyday wear.",
     description_long:
-      "This boho-printed blouse exudes laid-back vibes with its relaxed fit and casual style. The print brings a playful yet sophisticated element to the design, making it perfect for everyday wear. Its lightweight and breathable fabric make it an ideal choice for warm weather. Whether paired with jeans or shorts, this blouse is a must-have for anyone looking to channel effortless bohemian style.",
+      "Embrace a laid-back vibe with the Casual Boho Printed Blouse. This relaxed-fit blouse features playful prints that bring a sophisticated touch to casual wear. The lightweight, breathable fabric makes it perfect for warm weather, allowing for comfortable all-day wear. Pair it with jeans or shorts for a stylish, effortless look that channels your free-spirited side. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 15,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "Peasant-Style Blouse with Embroidered Details",
+    category: "women",
     image: p15_img,
     new_price: 75.0,
     old_price: 115.0,
     description:
       "A peasant-style blouse with embroidered details and bell sleeves. Perfect for a vintage-inspired look.",
     description_long:
-      "This peasant blouse features intricate embroidery that gives it a vintage-inspired, artisanal feel. The bell sleeves add drama and elegance to the silhouette, making it perfect for both casual and more formal settings. The lightweight fabric ensures breathability and comfort, while the detailed embroidery offers a touch of craftsmanship and uniqueness to your wardrobe. Pair it with denim or flowy skirts for a complete look.",
+      "This Peasant-Style Blouse features intricate embroidery that adds a vintage-inspired charm. The dramatic bell sleeves enhance its elegance, making it suitable for both casual and formal settings. Crafted from lightweight fabric, it ensures breathability and comfort, while the detailed embroidery adds uniqueness to your wardrobe. Pair it with denim or flowy skirts for a complete bohemian look. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 16,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "Lightweight Floral Print Chiffon Blouse",
+    category: "women",
     image: p16_img,
     new_price: 60.0,
     old_price: 100.0,
     description:
       "A lightweight chiffon blouse with a floral print and ruffle hem for a feminine touch.",
     description_long:
-      "This chiffon blouse offers a romantic floral design that’s perfect for both casual and formal occasions. The ruffle hem adds a playful, feminine silhouette, while the chiffon fabric keeps it airy and lightweight for all-day comfort. Ideal for warm days, this blouse pairs beautifully with skirts or jeans. Its delicate floral print adds a touch of charm, making it a must-have piece for your summer wardrobe.",
+      "The Lightweight Floral Print Chiffon Blouse showcases a romantic floral design, perfect for both casual and formal occasions. With a playful ruffle hem, this blouse adds a feminine silhouette while the airy chiffon fabric ensures comfort throughout the day. Ideal for warm days, it pairs beautifully with skirts or jeans, making it a charming addition to your summer wardrobe. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 17,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "Mock Neck Lace Panel Blouse",
+    category: "women",
     image: p17_img,
     new_price: 85.0,
     old_price: 130.0,
     description:
       "A mock neck blouse with intricate lace panels, giving it an elegant and timeless look.",
     description_long:
-      "This blouse features a high mock neck with beautifully detailed lace panels, offering a sophisticated and elegant aesthetic. Its classic design makes it perfect for formal events, but its lightweight fabric ensures comfort throughout the day. The lace paneling adds a delicate touch, making this blouse a standout piece for any wardrobe. Pair it with tailored trousers or skirts for an effortlessly chic look.",
+      "The Mock Neck Lace Panel Blouse features a high neckline adorned with beautifully detailed lace panels, exuding sophistication and timeless elegance. Its classic design is perfect for formal events, while the lightweight fabric ensures all-day comfort. The delicate lace adds a refined touch, making this blouse a standout piece for any wardrobe. Pair it with tailored trousers or a chic skirt for an effortlessly chic appearance. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 18,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "Balloon Sleeve Embroidered Tunic Blouse",
+    category: "women",
     image: p18_img,
     new_price: 95.0,
     old_price: 145.0,
     description:
       "A tunic blouse with balloon sleeves and embroidered detailing. Ideal for a bohemian vibe.",
     description_long:
-      "This tunic blouse showcases bohemian elegance with its voluminous balloon sleeves and intricate embroidery. The relaxed fit and flowing fabric make it perfect for comfortable all-day wear, while the delicate embroidery adds a touch of artisan craftsmanship. Ideal for weekend brunches or casual outings, this tunic is versatile and stylish. The balloon sleeves provide a dramatic silhouette, ensuring that you stand out in any crowd.",
+      "This Balloon Sleeve Embroidered Tunic Blouse showcases bohemian elegance with its voluminous balloon sleeves and intricate embroidery. The relaxed fit and flowing fabric ensure all-day comfort, while the detailed embroidery adds artisan craftsmanship to your look. Perfect for weekend brunches or casual outings, this tunic is versatile and stylish, with balloon sleeves that create a dramatic silhouette. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 19,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "Puff Sleeve Cotton Blouse",
+    category: "women",
     image: p19_img,
     new_price: 80.0,
     old_price: 125.0,
     description:
       "A cotton blouse with puff sleeves for a trendy, modern look. Comfortable and breathable.",
     description_long:
-      "This cotton blouse offers a contemporary take on a classic design with its stylish puff sleeves. The breathable cotton fabric ensures comfort throughout the day, while the puff sleeves add a touch of volume and structure. Whether dressed up with a skirt or worn casually with jeans, this blouse provides an effortlessly fashionable look. Its timeless appeal ensures that it remains a wardrobe staple for years to come.",
+      "The Puff Sleeve Cotton Blouse offers a contemporary take on a classic design with its stylish puff sleeves. Crafted from breathable cotton, it ensures comfort throughout the day while adding a touch of volume and structure to your silhouette. Whether dressed up with a skirt or worn casually with jeans, this blouse provides an effortlessly fashionable look that remains a wardrobe staple for years to come. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 20,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "Striped Button-Up Shirt with Knot Detail",
+    category: "women",
     image: p20_img,
     new_price: 70.0,
     old_price: 110.0,
     description:
       "A striped button-up shirt with a knot detail for a casual yet stylish vibe.",
     description_long:
-      "This button-up shirt combines the timeless appeal of stripes with a modern twist — a front knot that adds a laid-back, effortless style. The lightweight material makes it perfect for warm weather, and its relaxed fit ensures all-day comfort. The knot detail adds a unique and playful touch, making this shirt a versatile option for casual outings or weekend get-togethers. Pair it with jeans or shorts for a cool, relaxed look.",
+      "The Striped Button-Up Shirt combines classic stripes with a modern twist — a front knot that adds a laid-back, effortless style. Made from lightweight fabric, it’s perfect for warm weather, and its relaxed fit ensures all-day comfort. The knot detail introduces a unique and playful touch, making this shirt a versatile choice for casual outings or weekend get-togethers. Pair it with jeans or shorts for a cool, relaxed look. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 21,
@@ -286,19 +287,19 @@ let all_product = [
     description:
       "A v-neck blouse with floral embroidery and a lightweight feel. Great for casual chic looks.",
     description_long:
-      "This floral embroidered blouse features delicate stitching that brings a pop of color and charm to its minimalist design. The v-neckline enhances its elegant silhouette, making it perfect for both casual and semi-formal settings. Its lightweight material ensures breathability, while the floral embroidery adds a touch of femininity. Whether paired with jeans for a casual look or dressed up with skirts, this blouse offers versatility and style in one.",
+      "Elevate your casual wardrobe with the V-Neck Floral Embroidered Blouse. Featuring exquisite floral embroidery, this blouse brings a delightful pop of color to its minimalist design. The flattering v-neckline enhances its elegance, making it suitable for both casual and semi-formal settings. Crafted from lightweight material for breathability, it pairs beautifully with jeans for a relaxed look or skirts for a more polished outfit. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 22,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "Sheer Mesh Blouse with Polka Dots",
+    category: "women",
     image: p22_img,
     new_price: 65.0,
     old_price: 105.0,
     description:
       "A sheer mesh blouse with playful polka dots. Perfect for layering over camisoles or bralettes.",
     description_long:
-      "This sheer blouse is designed with playful polka dots, offering a bold yet sophisticated look. Its see-through mesh fabric makes it ideal for layering, allowing you to style it over camisoles or bralettes for a fashionable and versatile ensemble. The lightweight material ensures comfort, while the polka dots provide a fun and youthful aesthetic. Perfect for evening outings or casual gatherings, this blouse is both trendy and chic.",
+      "The Sheer Mesh Blouse with Polka Dots offers a chic and playful aesthetic with its trendy design. The sheer fabric and fun polka dots make it an ideal layering piece over camisoles or bralettes, providing a bold yet sophisticated look. Lightweight and comfortable, this blouse is perfect for casual gatherings or evening outings, allowing you to express your unique style with ease. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 23,
@@ -310,7 +311,7 @@ let all_product = [
     description:
       "A pleated blouse with bishop sleeves, ideal for creating an elegant, regal look.",
     description_long:
-      "This blouse is designed with pleats and bishop sleeves, offering a sophisticated and regal appearance. The pleated design creates a flattering silhouette, while the voluminous bishop sleeves add drama and elegance to your outfit. Perfect for formal events or elegant evening outings, this blouse pairs beautifully with tailored pants or skirts. The lightweight fabric ensures all-day comfort without sacrificing style.",
+      "The Pleated Bishop Sleeve Blouse is designed for those who appreciate elegance. With its pleated detailing and voluminous bishop sleeves, this blouse creates a regal silhouette perfect for formal events. The lightweight fabric ensures comfort while maintaining a polished appearance. Pair it with tailored pants or a skirt to achieve a sophisticated look that stands out at any occasion. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 24,
@@ -320,9 +321,9 @@ let all_product = [
     new_price: 75.0,
     old_price: 115.0,
     description:
-      "A classic white button-down blouse, a must-have for every wardrobe. Versatile and timeless.",
+      "A classic green Solid Zippered, a must-have for every wardrobe. Versatile and timeless.",
     description_long:
-      "This classic white button-down blouse is a wardrobe essential, offering endless versatility and timeless appeal. The crisp, clean design makes it perfect for both formal and casual occasions, whether paired with tailored trousers for work or jeans for a laid-back weekend look. Its high-quality fabric ensures comfort, while its simple yet elegant design guarantees that it never goes out of style. This blouse is a true staple for any wardrobe.",
+      "This Classic Green Solid Zippered is a wardrobe essential that embodies timeless style. Its crisp, clean design makes it suitable for both professional and casual settings, whether paired with tailored trousers for work or jeans for a laid-back weekend look. Crafted from high-quality fabric, it offers comfort and elegance, ensuring you always look your best. This blouse is a true staple that never goes out of fashion. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 25,
@@ -334,7 +335,7 @@ let all_product = [
     description:
       "A ribbed knit top with long sleeves, ideal for layering during cooler seasons.",
     description_long:
-      "This ribbed knit top is perfect for layering, offering warmth and style during cooler seasons. The ribbed texture adds a subtle element of sophistication, while the long sleeves make it a cozy option for autumn and winter. The fitted silhouette enhances its versatility, making it easy to pair with skirts, jeans, or trousers. Whether worn alone or layered under a jacket, this top ensures both comfort and style.",
+      "This Ribbed Knit Top is perfect for layering during the cooler months. The textured ribbed design adds a touch of sophistication, while the long sleeves provide warmth and comfort. Its fitted silhouette enhances versatility, allowing it to be paired with skirts, jeans, or trousers. Whether worn alone or layered under a jacket, this top is both cozy and stylish for autumn and winter. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 26,
@@ -346,7 +347,7 @@ let all_product = [
     description:
       "An off-shoulder blouse with ruffle sleeves, ideal for summer parties and casual outings.",
     description_long:
-      "This off-shoulder blouse is perfect for those warm summer days when you want to feel both comfortable and chic. The ruffle sleeves add a playful and feminine touch, while the off-shoulder design brings a hint of sultry elegance. Whether paired with shorts for a casual outing or dressed up with a skirt for a party, this blouse provides a fun and flirty look that’s perfect for the season.",
+      "This Off-Shoulder Ruffle Sleeve Blouse is your go-to for warm summer days. The playful ruffle sleeves add a feminine touch, while the off-shoulder design introduces a hint of sultriness. Whether you dress it down with shorts for a casual outing or elevate it with a skirt for a party, this blouse ensures you look effortlessly chic and stylish throughout the season. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 27,
@@ -358,7 +359,7 @@ let all_product = [
     description:
       "A square neck blouse with puff sleeves, combining vintage charm with modern design.",
     description_long:
-      "This blouse features a flattering square neckline and puff sleeves, creating a vintage-inspired look that’s both trendy and timeless. The puff sleeves add volume and drama, while the square neck gives it a structured yet feminine silhouette. Its soft, breathable fabric ensures comfort, making it perfect for both casual wear and dressier occasions. Pair it with high-waisted pants or skirts for an effortlessly chic look.",
+      "This Square Neck Puff Sleeve Blouse beautifully merges vintage charm with modern flair. The flattering square neckline and dramatic puff sleeves create a striking silhouette, making it a versatile piece for various occasions. Made from soft, breathable fabric, it provides all-day comfort, easily transitioning from casual outings to dressier events when paired with high-waisted pants or skirts. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 28,
@@ -370,7 +371,7 @@ let all_product = [
     description:
       "A cozy turtleneck sweater with ribbed knit detailing. Ideal for cold weather and layering.",
     description_long:
-      "This turtleneck sweater is the perfect blend of style and comfort, offering warmth without sacrificing fashion. The ribbed knit detailing adds texture and sophistication, while the turtleneck ensures you stay cozy during the colder months. Whether layered under a coat or worn alone, this sweater is versatile enough for casual days or more polished looks. Its soft, stretchy material makes it a go-to piece for winter wardrobes.",
+      "Stay warm and stylish with the Turtleneck Ribbed Knit Sweater. This cozy piece offers a perfect blend of comfort and fashion, featuring textured ribbed detailing for added sophistication. The turtleneck design keeps you snug during colder months, making it a great layering piece under coats or worn alone. Ideal for casual outings or more polished looks, this versatile sweater is a must-have for your winter wardrobe. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 29,
@@ -382,7 +383,7 @@ let all_product = [
     description:
       "A lightweight linen blend shirt with a classic button-down design. Perfect for warm weather.",
     description_long:
-      "This linen blend shirt is designed to keep you cool and comfortable, especially in warm weather. Its breathable fabric makes it a perfect choice for casual outings or vacations. The button-down style offers a timeless appeal, and the relaxed fit provides all-day comfort. Whether tucked into shorts or left untucked over jeans, this shirt adds effortless style to any casual look.",
+      "Keep cool in style with this Lightweight Linen Blend Shirt. Perfect for warm weather, its breathable fabric ensures comfort during sunny days. The classic button-down design adds timeless appeal, while the relaxed fit allows for easy movement. Whether worn tucked into shorts or left untucked over jeans, this shirt is an effortless choice for any casual outing or vacation. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 30,
@@ -394,7 +395,7 @@ let all_product = [
     description:
       "A luxurious silk camisole with a v-neckline. A versatile piece for layering or standalone wear.",
     description_long:
-      "This silk camisole is a wardrobe essential, offering a luxurious feel and a versatile style. The v-neck design creates a flattering neckline, and the silky smooth fabric adds a touch of elegance. Whether layered under a blazer for a professional look or worn on its own for a chic, minimalist outfit, this camisole provides endless styling options. Its lightweight material ensures comfort and sophistication in any setting.",
+      "The Luxurious Silk Camisole is a wardrobe must-have that brings elegance to any outfit. Featuring a flattering v-neckline, this camisole is crafted from silky smooth fabric that feels divine against the skin. Whether layered under a blazer for a professional look or worn alone for a chic, minimalist style, this versatile piece ensures comfort and sophistication for any occasion. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 31,
@@ -406,7 +407,7 @@ let all_product = [
     description:
       "A sleeveless blouse with ruffle detailing. Perfect for both casual and formal settings.",
     description_long:
-      "This sleeveless blouse offers an elegant design with delicate ruffle details along the neckline and shoulders. The lightweight fabric ensures comfort during warmer days, while the ruffles add a feminine touch. Its versatility allows it to be paired with skirts for a more formal look or jeans for a casual day out. This blouse effortlessly transitions from day to night, making it a must-have for any wardrobe.",
+      "This Sleeveless Blouse features delicate ruffle detailing along the neckline and shoulders, creating a refined yet playful design. Crafted from lightweight fabric, it provides comfort during warm days while allowing for versatile styling. Pair it with a skirt for a more formal look or with jeans for a casual outing. This blouse easily transitions from day to night, making it a staple in any wardrobe. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 32,
@@ -416,9 +417,9 @@ let all_product = [
     new_price: 85.0,
     old_price: 130.0,
     description:
-      "A stylish wrap top with a belted waist, creating a flattering silhouette for all body types.",
+      "A stylish colourblocked Hooded with a belted waist, creating a flattering silhouette for all body types.",
     description_long:
-      "This belted wrap top features a flattering waist tie that accentuates your figure, making it suitable for all body types. The wrap design adds sophistication, while the belt allows for a customized fit. Its lightweight material ensures breathability, making it perfect for both work and casual settings. This top is ideal for pairing with high-waisted pants or skirts, giving you a polished look with minimal effort.",
+      "This Stylish Colourblocked Hooded features a belted waist that accentuates your figure, providing a flattering silhouette suitable for all body types. The wrap design adds sophistication, while the adjustable belt ensures a customized fit. Made from lightweight fabric, it's perfect for both work and casual outings. This versatile top pairs beautifully with high-waisted pants or skirts, making it an effortless choice for any occasion. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 33,
@@ -430,7 +431,7 @@ let all_product = [
     description:
       "A bohemian-inspired peasant blouse with embroidered details and balloon sleeves.",
     description_long:
-      "This peasant blouse is designed with a bohemian flair, featuring intricate embroidery and voluminous balloon sleeves. The relaxed fit and flowing fabric provide a comfortable and airy feel, perfect for casual outings or festival wear. The embroidered details add artisanal charm, making this blouse a standout piece for those looking to add a touch of boho style to their wardrobe. Pair it with jeans or a maxi skirt for a laid-back yet chic look.",
+      "Embrace your bohemian spirit with this Peasant Blouse featuring intricate embroidery and voluminous balloon sleeves. The relaxed fit and flowing fabric ensure comfort, making it perfect for casual outings or festivals. With artisanal charm in its embroidered details, this blouse stands out as a unique piece to elevate your wardrobe. Pair it with jeans or a maxi skirt for a chic, laid-back look. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 34,
@@ -442,7 +443,7 @@ let all_product = [
     description:
       "A fitted turtleneck sweater, great for layering during colder months.",
     description_long:
-      "This fitted turtleneck sweater is a winter wardrobe essential, offering both warmth and style. The snug fit makes it perfect for layering under jackets or coats, while the turtleneck design keeps you cozy in cold weather. Its simple, sleek look allows for versatility, making it easy to dress up with skirts or keep casual with jeans. The soft, stretchy material ensures a comfortable fit without sacrificing style.",
+      "This Fitted Turtleneck Sweater is essential for winter wardrobes, offering warmth and style in equal measure. The snug fit makes it ideal for layering under jackets or coats, while the turtleneck design keeps you cozy. Its sleek look allows for versatility, easily dressing up with skirts or remaining casual with jeans. Crafted from soft, stretchy material, this sweater ensures a comfortable fit without compromising on style. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 35,
@@ -454,7 +455,7 @@ let all_product = [
     description:
       "A sleeveless top with a draped front, perfect for achieving a sophisticated, elegant look.",
     description_long:
-      "This sleeveless top features a draped front design that creates a soft, elegant silhouette. The flowing fabric drapes beautifully, making it perfect for formal occasions or a night out. Its simple design allows for versatility, and it pairs well with both skirts and pants. The lightweight material ensures all-day comfort, while the draped front adds a touch of sophistication to any outfit.",
+      "This Sleeveless Draped Front Top is designed to create an elegant silhouette with its flowing fabric. The draped front adds sophistication, making it suitable for formal occasions or a stylish night out. Its simple yet chic design pairs effortlessly with both skirts and pants, offering versatility for any wardrobe. Lightweight and comfortable, this top ensures you look polished while enjoying all-day ease. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 36,
@@ -466,9 +467,8 @@ let all_product = [
     description:
       "A delicate lace trim cami top, ideal for layering or wearing on its own.",
     description_long:
-      "This lace-trimmed cami top adds a touch of delicate elegance to your wardrobe. The lace detailing along the neckline creates a feminine and romantic look, while the soft, silky fabric ensures comfort throughout the day. Perfect for layering under blazers or cardigans, this cami can also be worn on its own for a casual yet chic style. Its lightweight design makes it a versatile piece for any season.",
+      "This Lace Trim Cami Top adds a touch of delicate elegance to any outfit. Featuring lace detailing along the neckline, it offers a feminine and romantic look, while the soft, silky fabric ensures comfort throughout the day. Perfect for layering under blazers or cardigans, this cami can also be worn on its own for a casual yet chic style. Its lightweight design makes it a versatile addition to your wardrobe for any season. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
 ];
-
 
 export default all_product;
