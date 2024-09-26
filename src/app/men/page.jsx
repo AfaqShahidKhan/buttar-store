@@ -1,4 +1,4 @@
-import MenCategory from "@/components/MenCategory";
+import MenProduct from "@/components/MenProduct";
 import React from "react";
 export const metadata = {
   title: "Men",
@@ -6,7 +6,7 @@ export const metadata = {
 function page() {
   return (
     <>
-      <MenCategory />
+      <MenProduct />
     </>
   );
 }
