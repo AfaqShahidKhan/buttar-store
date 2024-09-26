@@ -16,7 +16,7 @@ export const metadata = {
     template: "%s / Buttar Store",
     default: "Welcome / Buttar Store",
   },
-  description: "Unleash Your Style: Fashion Finds at Your Fingertips!",
+  description: "Unleash Your Style: Fashion Finds at Your Fingertips! Buttar Store by Afaq Shahid Khan and Mushahid Buttar. follow buttarstore",
 };
 
 export default function RootLayout({ children }) {
