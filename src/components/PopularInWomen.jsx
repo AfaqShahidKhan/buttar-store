@@ -12,7 +12,7 @@ function PopularInWomen() {
       <div className="w-32 mx-auto h-1 bg-primary-950 mt-2" />
       <div className="flex flex-wrap justify-center mt-4">
         {data_product.map((product, index) => (
-          <Link href={`/product/${product.id}`}>
+          <Link key={product.id} href={`/product/${product.id}`}>
             <ProductCard
               key={product.id}
               src={product.image}
