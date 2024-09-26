@@ -1,9 +1,12 @@
 import { createSlice } from "@reduxjs/toolkit";
 const loadUserFromLocalStorage = () => {
-  const savedUser = localStorage.getItem("userInfo");
-  return savedUser
-    ? JSON.parse(savedUser)
-    : { userInfo: null, isAuthenticated: false };
+  if (typeof window !== "undefined") {
+    const savedUser = localStorage.getItem("userInfo");
+    return savedUser
+      ? JSON.parse(savedUser)
+      : { userInfo: null, isAuthenticated: false };
+  }
+  return { userInfo: null, isAuthenticated: false };
 };
 const initialState = loadUserFromLocalStorage();
 const userSlice = createSlice({
