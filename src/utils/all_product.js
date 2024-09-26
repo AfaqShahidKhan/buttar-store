@@ -196,19 +196,19 @@ let all_product = [
   {
     id: 14,
     name: "Casual Boho Printed Blouse",
-    category: "women",
+    category: "men",
     image: p14_img,
     new_price: 65.0,
     old_price: 100.0,
     description:
-      "A casual boho blouse with a relaxed fit and printed design. Great for everyday wear.",
+      "A casual boho  with a relaxed fit and printed design. Great for everyday wear.",
     description_long:
-      "Embrace a laid-back vibe with the Casual Boho Printed Blouse. This relaxed-fit blouse features playful prints that bring a sophisticated touch to casual wear. The lightweight, breathable fabric makes it perfect for warm weather, allowing for comfortable all-day wear. Pair it with jeans or shorts for a stylish, effortless look that channels your free-spirited side. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
+      "Embrace a laid-back vibe with the Casual Boho Printed . This relaxed-fit blouse features playful prints that bring a sophisticated touch to casual wear. The lightweight, breathable fabric makes it perfect for warm weather, allowing for comfortable all-day wear. Pair it with jeans or shorts for a stylish, effortless look that channels your free-spirited side. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 15,
     name: "Peasant-Style Blouse with Embroidered Details",
-    category: "women",
+    category: "men",
     image: p15_img,
     new_price: 75.0,
     old_price: 115.0,
@@ -220,7 +220,7 @@ let all_product = [
   {
     id: 16,
     name: "Lightweight Floral Print Chiffon Blouse",
-    category: "women",
+    category: "men",
     image: p16_img,
     new_price: 60.0,
     old_price: 100.0,
@@ -231,20 +231,20 @@ let all_product = [
   },
   {
     id: 17,
-    name: "Mock Neck Lace Panel Blouse",
-    category: "women",
+    name: "Mock Neck Lace Panel ",
+    category: "men",
     image: p17_img,
     new_price: 85.0,
     old_price: 130.0,
     description:
-      "A mock neck blouse with intricate lace panels, giving it an elegant and timeless look.",
+      "A mock neck  with intricate lace panels, giving it an elegant and timeless look.",
     description_long:
-      "The Mock Neck Lace Panel Blouse features a high neckline adorned with beautifully detailed lace panels, exuding sophistication and timeless elegance. Its classic design is perfect for formal events, while the lightweight fabric ensures all-day comfort. The delicate lace adds a refined touch, making this blouse a standout piece for any wardrobe. Pair it with tailored trousers or a chic skirt for an effortlessly chic appearance. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
+      "The Mock Neck Lace Panel  features a high neckline adorned with beautifully detailed lace panels, exuding sophistication and timeless elegance. Its classic design is perfect for formal events, while the lightweight fabric ensures all-day comfort. The delicate lace adds a refined touch, making this blouse a standout piece for any wardrobe. Pair it with tailored trousers or a chic skirt for an effortlessly chic appearance. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 18,
     name: "Balloon Sleeve Embroidered Tunic Blouse",
-    category: "women",
+    category: "men",
     image: p18_img,
     new_price: 95.0,
     old_price: 145.0,
@@ -256,7 +256,7 @@ let all_product = [
   {
     id: 19,
     name: "Puff Sleeve Cotton Blouse",
-    category: "women",
+    category: "men",
     image: p19_img,
     new_price: 80.0,
     old_price: 125.0,
@@ -268,7 +268,7 @@ let all_product = [
   {
     id: 20,
     name: "Striped Button-Up Shirt with Knot Detail",
-    category: "women",
+    category: "men",
     image: p20_img,
     new_price: 70.0,
     old_price: 110.0,
@@ -279,20 +279,20 @@ let all_product = [
   },
   {
     id: 21,
-    name: "V-Neck Floral Embroidered Blouse",
-    category: "women",
+    name: "V-Neck Floral Embroidered ",
+    category: "men",
     image: p21_img,
     new_price: 85.0,
     old_price: 135.0,
     description:
       "A v-neck blouse with floral embroidery and a lightweight feel. Great for casual chic looks.",
     description_long:
-      "Elevate your casual wardrobe with the V-Neck Floral Embroidered Blouse. Featuring exquisite floral embroidery, this blouse brings a delightful pop of color to its minimalist design. The flattering v-neckline enhances its elegance, making it suitable for both casual and semi-formal settings. Crafted from lightweight material for breathability, it pairs beautifully with jeans for a relaxed look or skirts for a more polished outfit. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
+      "Elevate your casual wardrobe with the V-Neck Floral Embroidered. Featuring exquisite floral embroidery, this blouse brings a delightful pop of color to its minimalist design. The flattering v-neckline enhances its elegance, making it suitable for both casual and semi-formal settings. Crafted from lightweight material for breathability, it pairs beautifully with jeans for a relaxed look or skirts for a more polished outfit. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
   {
     id: 22,
     name: "Sheer Mesh Blouse with Polka Dots",
-    category: "women",
+    category: "men",
     image: p22_img,
     new_price: 65.0,
     old_price: 105.0,
@@ -340,7 +340,7 @@ let all_product = [
   {
     id: 26,
     name: "Off-Shoulder Ruffle Sleeve Blouse",
-    category: "women",
+    category: "kid",
     image: p26_img,
     new_price: 95.0,
     old_price: 145.0,
@@ -351,8 +351,8 @@ let all_product = [
   },
   {
     id: 27,
-    name: "Square Neck Puff Sleeve Blouse",
-    category: "women",
+    name: "Square Neck Puff Sleeve",
+    category: "kid",
     image: p27_img,
     new_price: 85.0,
     old_price: 135.0,
@@ -364,7 +364,7 @@ let all_product = [
   {
     id: 28,
     name: "Turtleneck Ribbed Knit Sweater",
-    category: "women",
+    category: "kid",
     image: p28_img,
     new_price: 100.0,
     old_price: 150.0,
@@ -423,13 +423,13 @@ let all_product = [
   },
   {
     id: 33,
-    name: "Peasant Blouse with Embroidery",
-    category: "women",
+    name: "Peasant shirt with Embroidery",
+    category: "kid",
     image: p33_img,
     new_price: 95.0,
     old_price: 150.0,
     description:
-      "A bohemian-inspired peasant blouse with embroidered details and balloon sleeves.",
+      "A bohemian-inspired peasant with embroidered details and balloon sleeves.",
     description_long:
       "Embrace your bohemian spirit with this Peasant Blouse featuring intricate embroidery and voluminous balloon sleeves. The relaxed fit and flowing fabric ensure comfort, making it perfect for casual outings or festivals. With artisanal charm in its embroidered details, this blouse stands out as a unique piece to elevate your wardrobe. Pair it with jeans or a maxi skirt for a chic, laid-back look. This product is designed by Afaq Shahid Khan and Mushahid Buttar.",
   },
