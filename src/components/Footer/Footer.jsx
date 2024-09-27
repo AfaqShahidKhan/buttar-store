@@ -24,8 +24,8 @@ function Footer() {
           <Link href="/">Company</Link>
           <Link href="/product">Products</Link>
           <Link href="/">Offices</Link>
-          <Link href="/">About</Link>
-          <Link href="/">Contact</Link>
+          <Link href="/about-us">About</Link>
+          <Link href="/contact-us">Contact</Link>
         </div>
         <div className="flex items-center justify-center space-x-4 text-lg md:text-xl font-semibold my-1 md:my-4">
           {" "}
