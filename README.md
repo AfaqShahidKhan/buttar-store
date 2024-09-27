@@ -1,17 +1,41 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+# Buttar Store
 
-First, run the development server:
+Welcome to Buttar Store, a shopping application built using Next.js 14.1 with app routing. This application provides a seamless shopping experience with a modern design and efficient state management using Redux.
+
+## Features
+
+- User-friendly interface
+- Product listing and detail pages
+- Shopping cart functionality
+- Redux for state management
+- Responsive design with Tailwind CSS
+
+## Technologies
+
+- **Next.js**: 14.1.4
+- **React**: ^18
+- **Node.js**: 18.1.7
+- **Redux Toolkit**: ^2.2.7
+- **Tailwind CSS**: ^3.4.12
+- **ESLint**: ^8
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/buttar-store.git
+2. Navigate to the project directory:
+   cd buttar-store
+3. Install the dependencies:
+npm install
+4. run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
