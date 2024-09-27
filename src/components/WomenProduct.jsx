@@ -3,10 +3,18 @@ import data_product from "@/utils/data";
 import ProductCard from "./ProductCard";
 import Link from "next/link";
 import all_product from "@/utils/all_product";
-
+import Image from "next/image";
+import banner_women from '../../public/images/banner_women.png'
 const WomenProduct = () => {
   return (
     <div>
+      <div className="md:px-24 mt-8">
+        <Image
+          src={banner_women}
+          objectFit="contain"
+          alt="buttarstore women"
+        />
+      </div>
       <div className="flex flex-wrap justify-center mt-4">
         {all_product
           .filter((product) => product.category === "women")
